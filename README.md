@@ -7,5 +7,5 @@ Detalhes
 usuario correto: 'jhonatan'
 senha correta: '123456'
 
-Caso o usuario ou senha estejam errados, aparecera a mensagem de erro.[
- master
+Caso o usuario ou senha estejam errados, aparecera a mensagem de erro.
+
